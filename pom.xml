@@ -12,7 +12,7 @@
 	<artifactId>SpringBootDemoProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBootDemoProject</name>
-	<description/>
+	<description>Spring Boot Demo Project</description>
 	<url/>
 	<licenses>
 		<license/>
